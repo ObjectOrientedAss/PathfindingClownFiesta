@@ -1,0 +1,20 @@
+C:\Users\franc\source\repos\aiv_graphs_b\bin\Debug\aiv_graphs_b.exe.config
+C:\Users\franc\source\repos\aiv_graphs_b\bin\Debug\aiv_graphs_b.exe
+C:\Users\franc\source\repos\aiv_graphs_b\bin\Debug\aiv_graphs_b.pdb
+C:\Users\franc\source\repos\aiv_graphs_b\obj\Debug\aiv_graphs_b.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\aiv_graphs_b\obj\Debug\aiv_graphs_b.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\aiv_graphs_b\obj\Debug\aiv_graphs_b.exe
+C:\Users\franc\source\repos\aiv_graphs_b\obj\Debug\aiv_graphs_b.pdb
+C:\Users\franc\source\repos\aiv_graphs_b\bin\Debug\Assets\graph1.txt
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\bin\Debug\Assets\graph1.txt
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\bin\Debug\aiv_graphs_b.exe.config
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\bin\Debug\aiv_graphs_b.exe
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\bin\Debug\aiv_graphs_b.pdb
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\bin\Debug\aiv-fast2d.dll
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\bin\Debug\OpenTK.dll
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\bin\Debug\OpenTK.xml
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\obj\Debug\aiv_graphs_b.csprojAssemblyReference.cache
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\obj\Debug\aiv_graphs_b.csproj.CoreCompileInputs.cache
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\obj\Debug\aiv_graphs_b.csproj.CopyComplete
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\obj\Debug\aiv_graphs_b.exe
+C:\Users\aivma\Desktop\AIV\aiv_graphs_b - dijkstra\aiv_graphs_b - dijkstra\obj\Debug\aiv_graphs_b.pdb
